@@ -39,7 +39,7 @@ ROBERTO N. FATTAL JAEF is an economist in the Macroeconomics and Growth team of 
 * Constrained-Efficiency and the Welfare Effects of Misallocation with Hugo Hopenhayn, November 2019
  [pdf](https://www.dropbox.com/s/6yrutojvg68x26z/Constrained_Efficiency_Nov2019.pdf?dl=0)
 
-The Elusive Missing Middle: The Size Distribution of Firms in Sub-Saharan Africa, Xavier Cirera, Hibret Maemir, and Nicolas Gonne, in progress
+* The Elusive Missing Middle: The Size Distribution of Firms in Sub-Saharan Africa, Xavier Cirera, Hibret Maemir, and Nicolas Gonne, in progress
 
 
 
