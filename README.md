@@ -3,7 +3,7 @@ ROBERTO N. FATTAL JAEF is an economist in the Macroeconomics and Growth team of 
 
  **Research Interests**  Macroeconomics, International Macroeconomics, Economic Development.
  
- _Disclaimer: the views expressed in this site are those of the author and do not necessarily represent those of the World Bank or World Bank policy.
+ _Disclaimer_: the views expressed in this site are those of the author and do not necessarily represent those of the World Bank or World Bank policy.
 
 # Publications
 
